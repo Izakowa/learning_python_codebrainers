@@ -1,0 +1,6 @@
+Jestem na kursie w Codebrainers lipiec 2025
+Dopisane bez menagera kontekstu
+Dopisujemy do pliku!
+ERROR
+ISSUE
+WARNING
